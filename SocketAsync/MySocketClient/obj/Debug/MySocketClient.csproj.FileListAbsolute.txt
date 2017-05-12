@@ -1,0 +1,5 @@
+C:\Users\LD-Note-6\Desktop\SocketAsync\MySocketClient\bin\Debug\MySocketClient.exe.config
+C:\Users\LD-Note-6\Desktop\SocketAsync\MySocketClient\bin\Debug\MySocketClient.exe
+C:\Users\LD-Note-6\Desktop\SocketAsync\MySocketClient\bin\Debug\MySocketClient.pdb
+C:\Users\LD-Note-6\Desktop\SocketAsync\MySocketClient\obj\Debug\MySocketClient.exe
+C:\Users\LD-Note-6\Desktop\SocketAsync\MySocketClient\obj\Debug\MySocketClient.pdb
