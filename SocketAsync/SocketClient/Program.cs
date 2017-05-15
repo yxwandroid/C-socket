@@ -16,7 +16,7 @@ namespace SocketClient
             
 
 
-            IPEndPoint ipep = new IPEndPoint(IPAddress.Parse("127.0.0.1"), 11000);
+            IPEndPoint ipep = new IPEndPoint(IPAddress.Parse("192.168.1.61"), 8096);
             Socket clientSocket = new Socket(AddressFamily.InterNetwork, SocketType.Stream, ProtocolType.Tcp);
             clientSocket.Connect(ipep);
             clientSocket.Send(Encoding.ASCII.GetBytes("test message<EOF>"));

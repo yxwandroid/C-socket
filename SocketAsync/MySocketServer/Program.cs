@@ -17,48 +17,11 @@ namespace MySocketServer
         static void Main(string[] args)
         {
             //服务器IP地址  
-            IPAddress ip = IPAddress.Parse("192.168.1.129");
-            //IPAddress ip = IPAddress.Parse("127.0.0.1");
+            IPAddress ip = IPAddress.Parse("192.168.1.85");
+          //  IPAddress ip = IPAddress.Parse("127.0.0.1");
             serverSocket = new Socket(AddressFamily.InterNetwork, SocketType.Stream, ProtocolType.Tcp);
-            serverSocket.Connect(ip, myProt);
+            serverSocket.Connect(new IPEndPoint(ip, myProt));
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-         
            // serverSocket.Connect
             //serverSocket.Bind(new IPEndPoint(ip, myProt));  //绑定IP地址：端口  
             serverSocket.Listen(10);    //设定最多10个排队连接请求  

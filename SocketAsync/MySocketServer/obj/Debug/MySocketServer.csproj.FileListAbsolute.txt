@@ -4,3 +4,9 @@ C:\Users\LD-Note-6\Desktop\SocketAsync\MySocketServer\bin\Debug\MySocketServer.e
 C:\Users\LD-Note-6\Desktop\SocketAsync\MySocketServer\bin\Debug\MySocketServer.pdb
 C:\Users\LD-Note-6\Desktop\SocketAsync\MySocketServer\obj\Debug\MySocketServer.exe
 C:\Users\LD-Note-6\Desktop\SocketAsync\MySocketServer\obj\Debug\MySocketServer.pdb
+C:\Users\LD-Note-6\Desktop\socket\SocketAsync\MySocketServer\bin\Debug\MySocketServer.exe.config
+C:\Users\LD-Note-6\Desktop\socket\SocketAsync\MySocketServer\obj\Debug\MySocketServer.exe
+C:\Users\LD-Note-6\Desktop\socket\SocketAsync\MySocketServer\obj\Debug\MySocketServer.pdb
+C:\Users\LD-Note-6\Desktop\socket\SocketAsync\MySocketServer\bin\Debug\MySocketServer.exe
+C:\Users\LD-Note-6\Desktop\socket\SocketAsync\MySocketServer\bin\Debug\MySocketServer.pdb
+C:\Users\LD-Note-6\Desktop\socket\SocketAsync\MySocketServer\obj\Debug\MySocketServer.csprojResolveAssemblyReference.cache

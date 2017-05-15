@@ -14,12 +14,11 @@ namespace SocketServer
         {
             int port = 3216;
             byte[] bytes = new Byte[1024];
-            IPAddress ipAddress = IPAddress.Parse("127.0.0.1");
-            IPEndPoint localEndPoint = new IPEndPoint(ipAddress, 11000);
+            IPAddress ipAddress = IPAddress.Parse("192.168.1.61");
+            IPEndPoint localEndPoint = new IPEndPoint(ipAddress, 8096);
 
             // 生成一个TCP的socket
-            Socket listener = new Socket(AddressFamily.InterNetwork,
-                SocketType.Stream, ProtocolType.Tcp);
+            Socket listener = new Socket(AddressFamily.InterNetwork, SocketType.Stream, ProtocolType.Tcp);
 
             listener.Bind(localEndPoint);
             listener.Listen(100);
