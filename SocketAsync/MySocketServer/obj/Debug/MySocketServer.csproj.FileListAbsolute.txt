@@ -4,3 +4,6 @@ C:\Users\LD-Note-6\Desktop\SocketAsync\MySocketServer\bin\Debug\MySocketServer.e
 C:\Users\LD-Note-6\Desktop\SocketAsync\MySocketServer\bin\Debug\MySocketServer.pdb
 C:\Users\LD-Note-6\Desktop\SocketAsync\MySocketServer\obj\Debug\MySocketServer.exe
 C:\Users\LD-Note-6\Desktop\SocketAsync\MySocketServer\obj\Debug\MySocketServer.pdb
+E:\code\C#code\SocketAsync\MySocketServer\bin\Debug\MySocketServer.exe.config
+E:\code\C#code\SocketAsync\MySocketServer\obj\Debug\MySocketServer.exe
+E:\code\C#code\SocketAsync\MySocketServer\obj\Debug\MySocketServer.pdb
